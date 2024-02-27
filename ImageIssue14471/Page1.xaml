@@ -23,7 +23,7 @@
 
    <Grid RowDefinitions="Auto, *">
 
-      <Button Text="Go To Page 1"
+      <Button Text="Go To Page 2"
               FontSize="20"
               Padding="30"
               Clicked="Button_Clicked"
